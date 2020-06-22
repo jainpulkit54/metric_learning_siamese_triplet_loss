@@ -9,3 +9,15 @@ Source: Schroff, Florian, Dmitry Kalenichenko, and James Philbin. Facenet: A uni
 Moreover, the triplet loss is mathematically expressed as:<br>
 
 ![](images/triplet_loss.png) <br>
+
+The embeddings obtained for the MNIST dataset are as follows: <br>
+For the MNIST Train Set:<br>
+![](outputs_MNIST/embeddings_trainset.png)<br>
+For the MNIST Test Set:<br>
+![](outputs_MNIST/embeddings_testset.png)<br>
+
+The embeddings obtained for the FMNIST dataset are as follows: <br>
+For the FMNIST Train Set:<br>
+![](outputs_FMNIST/embeddings_trainset.png)<br>
+For the FMNIST Test Set:<br>
+![](outputs_FMNIST/embeddings_testset.png)<br>
