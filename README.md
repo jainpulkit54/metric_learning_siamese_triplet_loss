@@ -8,4 +8,4 @@ Source: Schroff, Florian, Dmitry Kalenichenko, and James Philbin. Facenet: A uni
 
 Moreover, the triplet loss is mathematically expressed as:<br>
 
-![](images/triplet_loss.png)<br>
+![](images/triplet_loss.png) <br>
